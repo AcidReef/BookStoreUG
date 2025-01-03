@@ -42,6 +42,7 @@ Projekt biblioteki cyfrowej umożliwiający tworzenie cyfrowego zbioru swoich ks
    npm run dev
 
 ## API
+Testy przeprowadzono w środowisku Postman.
 Endpointy użytkownika:
 -	POST /api/users/register - rejestracja nowego użytkownika
 -	POST /api/users/login - logowanie użytkownika
