@@ -15,6 +15,8 @@ Book Store to projekt zbudowany przy użyciu stacku MERN (MongoDB, Express, Reac
 Projekt biblioteki cyfrowej umożliwiający tworzenie cyfrowego zbioru swoich książek. Projekt umożlwia edycję i usuwanie pozycji już istniejących.
 
 ## Funkcjonalności
+- [ ] Rejestracja użytkowników.
+- [ ] Logowanie z uwierzytelnieniem JWT.
 - [x] CRUD książek.
 - [x] Interfejs użytkownika z React.
 - [x] Możliwość edycji zbiorów.
